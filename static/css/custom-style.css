@@ -1,0 +1,21 @@
+.mainLand {
+  fill: #ddd;
+}
+.Borders4state {
+  fill: none;
+  stroke: #fff;
+}
+.airport-arc {
+  fill: none;
+}
+
+.airport_polygon {
+  fill: none;
+  stroke: none;
+  stroke-opacity: 0.1;
+  pointer-events: all;
+}
+.airport-dots{
+  fill: red;
+  flex: 10;
+}
